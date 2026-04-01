@@ -1,0 +1,19 @@
+check !SNOOINUNLOCK!
+.snooinunlock/e
+.snooinunlock/dd
+.snooinunlock/ag
+.snooinunlock/ar
+.snooinunlock/ADMR
+.snooinunlock/cmd.exe
+.snooinunlock/me
+.snooinunlock/users
+.snooinunlock/C:
+.snooinunlock/:
+.snooinunlock/win
+.snooinunlock/ENABLE
+.snooinunlock/check !ENABLE!
+.snooinunlock/sninunlock
+.snooinunlock/files
+.snooinunlock/cmd.exe
+.snooinunlock/.bat
+.snooinunlock/.exe
